@@ -7,7 +7,7 @@ project:
   organization_url: "https://www.linkedin.com/in/affanabbasi/"
   owner: "Affan Abbasi"
   process: "SKY130"
-  project_name: "Caravel"
+  project_name: "Analog_RF_MPW"
   tags: 
     - "Open MPW"
     - "Test Harness"
